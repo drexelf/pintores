@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.fondo{
+    background-color: whitesmoke;
+}
+.titulo{
+    padding: 35px;
+    text-align: center;
+    color: white;
+    background-color: #28282E;
+    height: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+}
+.subtitulo{
+    color:purple;
+    font-style: oblique;
+    font-family: 'Verdana', Times, serif;
+    padding-left: 14%;
+    padding-right: 0.50%;
+}
+.texto{
+    color: black;
+    font-size: larger;
+    padding-left: 15%;
+    padding-right:14% ;
+}
+.textop{
+    color: black;
+    font-size: larger;
+    padding-left: 15%;
+    padding-right:5% ;
+}
+.ssubtitulo{
+    color: black;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 14.5%;
+    padding-right: 0.50%;
+    font-weight: bold;
+}
+.textoFinal{
+    color: black;
+    font-size: larger;
+    padding-left: 15%;
+    padding-right:14% ;
+    padding-bottom: 2%;
+}
+table {
+    color: black;
+    border: 3px solid black;
+    width: 13%;
+    float: left;
+}
+
+td,
+tr{
+    border: 2px solid black;
+    background-color:rgb(179, 48, 179);
+    height: 35px;
+    
+}
+th{
+    border: 2px solid black;
+    background-color: purple;
+    height: 45px;
+    color: white;
+}
